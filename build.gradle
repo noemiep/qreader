@@ -52,7 +52,7 @@ ext {
   compileSdkVersion = targetSdkVersion
   buildToolsVersion = '27.0.0'
   supportLibVersion = '27.0.0'
-  playServicesVersion = '11.4.2'
+  playServicesVersion = '21.2.0'
 
   // Library Info
   libVersionCode = 12
